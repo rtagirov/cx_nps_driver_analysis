@@ -84,9 +84,7 @@
 
 После этого значение NPS рассчитывается по классической формуле:
 
-$$
-NPS = \frac{Promoters - Detractors}{Total} \times 100
-$$
+NPS = (Promoters - Detractors) x 100 / Total
 
 где:
 
