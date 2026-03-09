@@ -84,7 +84,7 @@ In the aggregated data mart, responses are already grouped by segment, and the f
 
 The NPS value is then calculated using the standard formula:
 
-NPS = (Promoters - Detractors) x 100 / Total
+NPS = (Promoters - Detractors) x 100\% / Total
 
 where:
 
